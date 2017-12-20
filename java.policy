@@ -1,0 +1,11 @@
+/*
+  Name: Deepak Kumar Reddy Nallakalva
+  Course: CS 512 - Advanced Operating Systems
+*/
+
+grant{                   //giving permissions to connect
+  permission java.net.SocketPermission "*:1024-65535","connect,accept";
+  permission java.net.SocketPermission "*:80", "connect";
+  permission java.io.FilePermission "/home/myLoginName/restOfPathToFiles/-", "read";
+};
+

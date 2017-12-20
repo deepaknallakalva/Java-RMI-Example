@@ -1,0 +1,129 @@
+Script started on Sat 02 Dec 2017 09:58:36 AM CST
+dkrn100@uxb4:~$ cd /cs512/assn3/nallad2C[C[C/cs512/assn3/nallad2Ch/cs512/assn3/nallad2Come/cs512/assn3/nallad2C[C/cs512/assn3/nallad2Cd/cs512/assn3/nallad2Ck/cs512/assn3/nallad2Cr/cs512/assn3/nallad2Cn/cs512/assn3/nallad2C1/cs512/assn3/nallad2C00/cs512/assn3/nallad2C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+dkrn100@uxb4:~/cs512/assn3/nallad2C$ pwd
+/home/dkrn100/cs512/assn3/nallad2C
+dkrn100@uxb4:~/cs512/assn3/nallad2C$ ls[K[Kdate
+Sat Dec  2 09:58:57 CST 2017
+dkrn100@uxb4:~/cs512/assn3/nallad2C$ javac *.java
+ldkrn100@uxb4:~/cs512/assn3/nallad2C$ ls -l
+total 18
+-rw------- 1 dkrn100 student  254 Dec  2 09:59 FavVGame.class
+-rw-r--r-- 1 dkrn100 student  377 Dec  1 17:20 FavVGame.java
+-rw------- 1 dkrn100 student  325 Dec  2 09:59 FavVGameList.class
+-rw------- 1 dkrn100 student 4308 Dec  2 09:59 FavVGameListClient.class
+-rw------- 1 dkrn100 student 5176 Dec  2 09:55 FavVGameListClient.java
+-rw-r--r-- 1 dkrn100 student  459 Dec  1 17:21 FavVGameList.java
+-rw------- 1 dkrn100 student  858 Dec  2 09:59 GraphicalObject.class
+-rw-r--r-- 1 dkrn100 student  940 Dec  2 05:30 GraphicalObject.java
+-rw-r--r-- 1 dkrn100 student  367 Dec  1 17:26 java.policy
+dkrn100@uxb4:~/cs512/assn3/nallad2C$ ls -ljavac *.java[8Pdate[1Ppwdcd /home/dkrn100/cs512/assn3/nallad2Cexit[Kjava -Djava.security.policy=java.policy FavVGameListClient Write Def Xbox 8[3@Abc "Wii U"[C[C[3PXbox 7"iPad" 8Ghi[C[C[C[C[C[C[C[C[CDef "iPad" 7Abc "PlayStation 4" 9[11PDef Xbox 7Abc "Wii U" 9[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls -l[Kjavac *.java[8Pdate[1Ppwdcd /home/dkrn100/cs512/assn3/nallad2Cexit[Kjava -Djava.security.policy=java.policy FavVGameListClient Write Abc "Wii U" 9`Wii U`[C[C[3PWiiU[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls -l[Kjavac *.java[8Pdate[1Ppwdcd /home/dkrn100/cs512/assn3/nallad2Cjava -Djava.security.policy=java.policy FavVGameListClient[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cc *.java[K ps -aux | grep dkrn100java -Djava.security.policy=java.policy FavVGameListClient “Write” “Abc” "iPad” 9[7@Def” “playstation[C[C[CAbc” “playstation” 7[5PXbox” “5”[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cc *.java[Kcd /home/dkrn100/cs512/assn3/nallad2Cjava -Djava.security.policy=java.policy FavVGameListClient[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls -lrth[K[Kcd nallad2C/ls[Kcd cs512/assn3/java -Djava.security.policy=java.policy FavVGameListClient “Write” “Abc” “Xbox” 5“5”[K[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cc *.java[Kcd /home/dkrn100/cs512/assn3/nallad2Cjavac *.java[Kcd /home/dkrn100/cs512/assn3/nallad2Cexit[Kjava -Djava.security.policy=java.policy FavVGameListClient[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cc *.java[K -Djava.security.policy=java.policy FavVGameListClient.FavVGameListClient[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cc *.java[Kcd /home/dkrn100/cs512/assn3/nallad2Cjavac *.java[Kcd /home/dkrn100/cs512/assn3/nallad2Cpwd[Kjavac *.javacd /home/dkrn100/cs512/assn3/nallad2Cpwd[Ks aux | grep chrome[4Pkillall -w irssi -l[K[K -lall -w irssips aux | grep chrome[K[K[3Pwdcd /home/dkrn100/cs512/assn3/nallad2Cjavac *.java[Kpwd[Kcd /home/dkrn100/cs512/assn3/nallad2Cjavac *.java[Kcd /home/dkrn100/cs512/assn3/nallad2Cjavac *.java[K -Djava.security.policy=java.policy.FavVGameListClient FavVGameListClient[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cc *.java[K -Djava.security.policy=java.policy FavVGameListClient[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cexit[Kcd /home/dkrn100/cs512/assn3/nallad2Cjavac *.java[Kcd /home/dkrn100/cs512/assn3/nallad2Cjavac *.java[K -Djava.security.policy=java.policy FavVGameListClient “Write” “Abc” “Xbox” “5”[2P5[K[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd cs512/assn3/[Kls[Kcd nallad2C/ls[K -lrthjava -Djava.security.policy=java.policy FavVGameListClient[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[21Pcd /home/dkrn100/cs512/assn3/nallad2Cjavac *.java[K -Djava.security.policy=java.policy FavVGameListClient “Write” “Abc” “Xbox” “5”playstation” 7Def” “playstation” 9[7PAbc” "iPad[C[C[C[K[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[35P ps -aux | grep dkrn100[11Pjavac *.java -Djava.security.policy=java.policy FavVGameListClient[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[21Pcd /home/dkrn100/cs512/assn3/nallad2Cpwd[Kdate[1Ppwdcd /home/dkrn100/cs512/assn3/nallad2Cjava -Djava.security.policy=java.policy FavVGameListClient[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cc *.java[K ps -aux | grep dkrn100java -Djava.security.policy=java.policy FavVGameListClient “Write” “Abc” "iPad” 9[K “Write” “Abc” "iPad” 9[7@Def” “playstation[C[C[CAbc” “playstation” 7[5PXbox” “5”[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cc *.java[Kcd /home/dkrn100/cs512/assn3/nallad2Cjavac *.java[K -Djava.security.policy=java.policy FavVGameListClient “Write” “Abc” “Xbox” “5”playstation” 7[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[KWrite Abc W[K"Wii U" 9
+name = Abc platform = Wii U rating = 9
+Found Game server
+Got vector
+Created Video Game object
+Stored Video Game 
+dkrn100@uxb4:~/cs512/assn3/nallad2C$ java -Djava.security.policy=java.policy FavVGameListClient Write Abc "Wii U" 9[C[C[C[K8[1P[1P[1P[1@D[1@e[1@f[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[KXbox 7
+name = Def platform = Xbox rating = 7
+Found Game server
+Got vector
+Created Video Game object
+Stored Video Game 
+dkrn100@uxb4:~/cs512/assn3/nallad2C$ java -Djava.security.policy=java.policy FavVGameListClient Write Def Xbox 7[1P[1P[1P[1@A[1@b[1@c[C"Wii U" 9[1P[1P[1P[1P[1P[1@P[1@l[1@a[1@y[1@S[1@t[1@a[1@t[1@i[1@o[1@n[1@ [1@4
+name = Abc platform = PlayStation 4 rating = 9
+Found Game server
+Got vector
+Created Video Game object
+Stored Video Game 
+dkrn100@uxb4:~/cs512/assn3/nallad2C$ java -Djava.security.policy=java.policy FavVGameListClient Write Abc "PlayStation 4" 9[1P[1P[1P[1@D[1@e[1@f[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P 9[1P 9[1P9[1P 9[1P 9[1P 9[1P 9[1P 9[1P 9[1P 9[1P 9[1P 9[1P 9[1P 9[1P 9i 9P 9a 9d 9[C[C[K7
+name = Def platform = iPad rating = 7
+Found Game server
+Got vector
+Created Video Game object
+Stored Video Game 
+dkrn100@uxb4:~/cs512/assn3/nallad2C$ java -Djava.security.policy=java.policy FavVGameListClient Write Def iPad 7[C[1P[1P[1P[1@G[1@h[1@i[C[C[C[C[C[C[C[K8
+name = Ghi platform = iPad rating = 8
+Found Game server
+Got vector
+Created Video Game object
+Stored Video Game 
+dkrn100@uxb4:~/cs512/assn3/nallad2C$ java -Djava.security.policy=java.policy FavVGameListClient Write Ghi iPad 8[1P[1P[1P[1@J[1@k[1@l
+name = Jkl platform = iPad rating = 8
+Found Game server
+Got vector
+Created Video Game object
+Stored Video Game 
+dkrn100@uxb4:~/cs512/assn3/nallad2C$ java -Djava.security.policy=java.policy FavVGameListClient Write Jkl iPad 8[C[K[K[K[K[K[KGhi iPad 8Def iPad 7Abc "PlayStation 4" 9[11PXbox 7
+name = Abc platform = Xbox rating = 7
+Found Game server
+Got vector
+Created Video Game object
+Stored Video Game 
+dkrn100@uxb4:~/cs512/assn3/nallad2C$ java -Djava.security.policy=java.policy FavVGameListClient Write Abc Xbox 7[6PJkl Ghi iPad 8Def iPad 7Abc "PlayStation 4" 9[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1@W[1@i[1@i[1@ [1@U[C[C[C[K8
+name = Abc platform = Wii U rating = 8
+Found Game server
+Got vector
+Created Video Game object
+Stored Video Game 
+dkrn100@uxb4:~/cs512/assn3/nallad2C$ java -Djava.security.policy=java.policy FavVGameListClient Write Abc "Wii U" 8[1P[1P[1P[1P[1P[1P 8[1P[1P[1P[1PAbc Xbox 7[6PJkl Abc Xbox 7[C[C[1P[1P[1P[1@D[1@e[1@f[C[C[C[C[C[C[C[K8
+name = Def platform = Xbox rating = 8
+Found Game server
+Got vector
+Created Video Game object
+Stored Video Game 
+dkrn100@uxb4:~/cs512/assn3/nallad2C$ java -Djava.security.policy=java.policy FavVGameListClient Write Def Xbox 8[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K
+name = null platform = null rating = 0
+Found Game server
+Got vector
+Enter 1 : To get most video game submissions so far
+Enter 2 : To get the Name of the video game that has greatest average rating
+Enter 3 : Total submissions for Def
+Enter 4 : Total Submissions
+Enter 5 : Complete List of different video games 
+Enter 6 : Exit 
+1
+The most number of submissions is for VideoGame = Abc
+Enter 1 : To get most video game submissions so far
+Enter 2 : To get the Name of the video game that has greatest average rating
+Enter 3 : Total submissions for Def
+Enter 4 : Total Submissions
+Enter 5 : Complete List of different video games 
+Enter 6 : Exit 
+2
+The game with highest average rating is Rating= Ghi
+Enter 1 : To get most video game submissions so far
+Enter 2 : To get the Name of the video game that has greatest average rating
+Enter 3 : Total submissions for Def
+Enter 4 : Total Submissions
+Enter 5 : Complete List of different video games 
+Enter 6 : Exit 
+3
+The Number of submissions for Def is = 3
+The Number of submissions for Def is = 1
+Enter 1 : To get most video game submissions so far
+Enter 2 : To get the Name of the video game that has greatest average rating
+Enter 3 : Total submissions for Def
+Enter 4 : Total Submissions
+Enter 5 : Complete List of different video games 
+Enter 6 : Exit 
+4
+The Total Number of Video Game Submissions 9
+Enter 1 : To get most video game submissions so far
+Enter 2 : To get the Name of the video game that has greatest average rating
+Enter 3 : Total submissions for Def
+Enter 4 : Total Submissions
+Enter 5 : Complete List of different video games 
+Enter 6 : Exit 
+5
+The List of different video games is: [Abc, Def, Ghi, Jkl]
+Enter 1 : To get most video game submissions so far
+Enter 2 : To get the Name of the video game that has greatest average rating
+Enter 3 : Total submissions for Def
+Enter 4 : Total Submissions
+Enter 5 : Complete List of different video games 
+Enter 6 : Exit 
+6
+Bye!
+dkrn100@uxb4:~/cs512/assn3/nallad2C$ exit
+exit
+
+Script done on Sat 02 Dec 2017 10:02:41 AM CST
